@@ -1198,9 +1198,9 @@ figcaption{
     .navlist
     {
         position:absolute;
-        top:100%;
+        top:80%;
         left:-100%;
-        width:300px;
+        width:320px;
         height:40vh;
         background-color:black;
         display:flex;
@@ -1299,7 +1299,7 @@ figcaption{
 
     .main_categories
     {
-        display:none;
+        background-color:white;
     }
 
     .main_img a img
