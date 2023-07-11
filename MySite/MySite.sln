@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{0F15B4B0-7AE9-4277-854D-658A183613D4}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage1.html = HTMLPage1.html
+		Script1.js = Script1.js
+		StyleSheet1.css = StyleSheet1.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fonts", "Fonts", "{5B33BFFD-AEA3-476F-88A6-50DEDD8B396E}"
+	ProjectSection(SolutionItems) = preProject
+		..\Fonts\SAO-Font_v3.200.png = ..\Fonts\SAO-Font_v3.200.png
+		..\Fonts\SAOUI-Bold.otf = ..\Fonts\SAOUI-Bold.otf
+		..\Fonts\SAOUI-Regular.otf = ..\Fonts\SAOUI-Regular.otf
+		..\Fonts\SAOUITT-Bold.ttf = ..\Fonts\SAOUITT-Bold.ttf
+		..\Fonts\SAOUITT-Regular.ttf = ..\Fonts\SAOUITT-Regular.ttf
+		..\Fonts\SAOWelcome-Bold.otf = ..\Fonts\SAOWelcome-Bold.otf
+		..\Fonts\SAOWelcome-Regular.otf = ..\Fonts\SAOWelcome-Regular.otf
+		..\Fonts\SAOWelcomeTT-Bold.ttf = ..\Fonts\SAOWelcomeTT-Bold.ttf
+		..\Fonts\SAOWelcomeTT-Regular.ttf = ..\Fonts\SAOWelcomeTT-Regular.ttf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5B33BFFD-AEA3-476F-88A6-50DEDD8B396E} = {0F15B4B0-7AE9-4277-854D-658A183613D4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91026E36-49DE-45B8-B57E-534A98655A21}
+	EndGlobalSection
+EndGlobal
